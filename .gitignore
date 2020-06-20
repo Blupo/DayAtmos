@@ -1,0 +1,7 @@
+# build
+/*.rbxm
+/*.rbxmx
+/*.rbxlx
+
+# luacheck
+/.luacheckrc
